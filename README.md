@@ -1,6 +1,6 @@
 Prototype Projects
 =============
 
-I intend to push code I write to use Amazon AWS, elastic search services. Feeol free to use them.
+Contains the codes I write to use Amazon AWS services. Feel free to use them.
 
 

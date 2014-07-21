@@ -28,8 +28,7 @@ public class S3ObjectHandler {
 		return s3Client.getObject(bucketName, key);
 	}
 
-	public PutObjectResult putObject(final String bucketName, final String key,
-			final File object) {
+	public PutObjectResult putObject(final String bucketName, final String key, final File object) {
 		return s3Client.putObject(bucketName, key, object);
 	}
 
@@ -37,8 +36,7 @@ public class S3ObjectHandler {
 		s3Client.deleteObject(bucketName, key);
 	}
 
-	public void updateObject(final String bucketName, final String key,
-			final File newObject) {
+	public void updateObject(final String bucketName, final String key, final File newObject) {
 		s3Client.deleteObject(bucketName, key);
 		putObject(bucketName, key, newObject);
 	}

@@ -1,0 +1,10 @@
+{"index":{"_id":"1","_index":"users","_type":"publishers"}}
+{"publisher_id":1,"name":"Lakshitha Ranasingha","email":"lakshitha@someemail.com", "address":{"houseNumber":"01","street1":"street 1","street2":"Hampstead","city":"London","postcode":"NW1 4FL","country":"UK"}}
+{"index":{"_id":"2","_index":"users","_type":"publishers"}}
+{"publisher_id":2,"name": "Ashith Ariyapala","email": "ashith@anotheremail.com","address": {"houseNumber": "30","street1": "cool street","street2": "Richmond","postcode": "WP1 2DS","city": "London","country": "UK"}}
+{"index":{"_id":"3","_index":"users","_type":"publishers"}}
+{"publisher_id":3,"name": "Lashan Bertholomeuz","email": "lashan@randomemail.com","address": {"houseNumber": "340","street1": "Hollow street","street2": "some town","postcode": "BR4 5LD","city": "Brighton","country": "UK"}}
+{"index":{"_id":"4","_index":"users","_type":"publishers"}}
+{"publisher_id":4,"name": "Niranjalee Rajaratne","email": "nira@randomemail.com","address": {"houseNumber": "45","street1": "Long avenue","street2": "another town","postcode": "LD8 5RG","city": "Leeds","country": "UK"}}
+{"index":{"_id":"5","_index":"users","_type":"publishers"}}
+{"publisher_id":5,"name": "James Robson","email": "jrobson@aol.com","address": {"houseNumber": "567","street1": "Quick avenue","street2": "Port Town","postcode": "MN3 T2S","city": "Manchester","country": "UK"}}
